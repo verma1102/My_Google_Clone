@@ -1,5 +1,5 @@
 import React from 'react';
-import response from '../response';
+//import response from '../response';
 import { useStateValue } from '../StateProvider';
 import useGoogleSearch from '../useGoogleSearch';
 import './SearchPage.css';
@@ -87,7 +87,7 @@ function SearchPage() {
                             </a>
                             <a
                                 className='searchPage__resultTitle'
-                                href={item, Link}><h2>{item.title}</h2>
+                                href={item.Link}><h2>{item.title}</h2>
                             </a>
                             <p className='searchPage__resultSnippet'>
                                 {item.snippet}
