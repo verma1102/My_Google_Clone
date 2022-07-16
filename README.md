@@ -1,3 +1,10 @@
+# My_Google_Clone
+
+# Using ReactJS.
+### A fully functional replica of Google’s main page, used for searches.
+### It fetches real-time data through API and directs it to the search’s official website.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
