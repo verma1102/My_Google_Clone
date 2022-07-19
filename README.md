@@ -3,11 +3,11 @@
 # Using ReactJS.
 ### A fully functional replica of Google’s main page, used for searches.
 ### It fetches real-time data through API and directs it to the search’s official website.
-
+#
 ![Home_Page](https://user-images.githubusercontent.com/71364588/179354466-bc306394-6992-406d-a134-248112389089.png)
 
 ![Search_Page](https://user-images.githubusercontent.com/71364588/179354468-8a20beaa-855a-4f45-b4bb-7081aff0aa37.png)
-
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
